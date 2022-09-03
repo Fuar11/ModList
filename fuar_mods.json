@@ -6,7 +6,7 @@
                 "name": "ImprovedLoadingScreens",
                 "displayName": "Improved Loading Screens",
                 "aliases":[],
-                "version": "1.0.1",
+                "version": "1.0.2",
                 "updated": "2022-09-02",
         	"description": "A mod that improves the loading screens of the game with custom tips, background images and the ability to enable or disable various aspects of the loading screens.",
         	"modURL": "https://github.com/Fuar11/ImprovedLoadingScreens",
@@ -22,7 +22,7 @@
 		},
                 "status": {
 			"working": true,
-			"issues": "Region backgrounds and hints don't update upon the first few loading screens in a new region.",
+			"issues": "",
 			"notes": ""
 		}
         ]
