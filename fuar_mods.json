@@ -47,7 +47,7 @@
 			},
 			"status": {
 				"working": true,
-				"issues": "Last known play time of tracks is not saved in save files. It will carry over between saves and only be reset on game restart",
+				"issues": "",
 				"notes": ""
 			}
 		}
