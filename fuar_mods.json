@@ -50,6 +50,30 @@
 				"issues": "Not updated for TFTFT Expansion Update",
 				"notes": ""
 			}
+		},
+		{
+			"name":"SurvivorKnowledge",
+			"displayName":"Survivor Knowledge",
+			"aliases":["Knowledge Mod"],
+			"version":"1.0.0",
+			"updated":"2023-01-08",
+			"description":"Simulates survivor knowledge by locking crafting recipes and harvesting actions behind skill levels.",
+			"modURL":"https://github.com/Fuar11/SurvivorKnowledge",
+			"downloadURL":"https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.0.0/SurvivorKnowledge.dll",
+			"testedon":{
+				"tldversion":"2.06",
+				"mlversion": "0.6.0"
+			 },
+			"dependencies": ["ModSettings"],
+			"updater":{
+				"enable":true,
+				"downloads":[]
+			},
+			"status": {
+				"working": true,
+				"issues": "",
+				"notes": ""
+			}
 		}
         ]
 }
