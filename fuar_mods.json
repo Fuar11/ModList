@@ -1,99 +1,133 @@
 {
-
-        "author":"Fuar",
-        "authorURL":"https://github.com/Fuar11?tab=repositories",
-        "mods":[
+	"version": "2",
+	"author": "Fuar",
+	"authorURL": "https://github.com/Fuar11?tab=repositories",
+	"supportURL": "",
+	"mods": [
 		{
 			"type": "mod",
+			"version": "1.0.3",
 			"name": "ImprovedLoadingScreens",
 			"displayName": "Improved Loading Screens",
-			"aliases":[],
 			"author": "Fuar",
-			"version": "1.0.3",
+			"previousAuthors": "",
+			"released": "",
 			"updated": "2022-09-12",
-			"description": "A mod that improves the loading screens of the game with custom tips, background images and the ability to enable or disable various aspects of the loading screens.",
-			"categories":["Quality of Life"],
-			"gameversion":["vanilla", "tftft"],
-			"tags":"loading screens",
-			
-			"modURL": "https://github.com/Fuar11/ImprovedLoadingScreens",
 			"downloadURL": "https://github.com/Fuar11/ImprovedLoadingScreens/releases/download/v1.0.3/ImprovedLoadingScreens.dll",
-			"testedon": {
-				 "tldversion": "2.02",
-				 "mlversion": "0.5.5.0"
-			  },
-			"updater":{
-				"enable":true,
-				"downloads":[]
-			},
-			"dependencies": ["ModSettings","LocalizationUtilities"],
+			"modURL": "https://github.com/Fuar11/ImprovedLoadingScreens",
+			"description": "A mod that improves the loading screens of the game with custom tips, background images and the ability to enable or disable various aspects of the loading screens.",
+			"tags": "loading screens",
+			"categories": [
+				"Quality of Life"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"LocalizationUtilities"
+			],
 			"status": {
-				"working": true,
-				"issues": "Not updated for TFTFT Expansion Update",
-				"notes": ""
-			}
-		},
-		{
-			"type": "mod",
-			"name":"ImprovedSoundtrack",
-			"displayName":"Improved Soundtrack",
-			"aliases":["Improved OST"],
-			"author": "Fuar",
-			"version":"1.1.4",
-			"description":"Improves the in game soundtrack by adding new conditions to play rare or removed music tracks from the OST. Including new location discovered stingers.",
-			"categories": ["Audio", "Music"],
-			"gameversion":["vanilla", "tftft"],
-			"tags":"music, soundtrack, ost",
-			"updated":"2022-09-30",
-
-			"modURL":"https://github.com/Fuar11/ImprovedSoundtrack",
-			"downloadURL":"https://github.com/Fuar11/ImprovedSoundtrack/releases/download/v1.1.4/ImprovedSoundtrack.dll",
-			
-			"dependencies": ["ModSettings","AudioCore"],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+				"working": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": "Not updated for TFTFT Expansion Update"
 			},
-			"testedon":{
-				"tldversion":"2.02",
+			"testedon": {
+				"tldversion": "2.02",
 				"mlversion": "0.5.5.0"
 			},
-			"status": {
-				"working": true,
-				"issues": "Not updated for TFTFT Expansion Update",
-				"notes": ""
-			}
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
 			"type": "mod",
-			"name":"SurvivorKnowledge",
-			"displayName":"Survivor Knowledge",
-			"aliases":["Knowledge Mod"],
-			"Author":"Fuar",
-			"version":"1.0.0",
-			"description":"Simulates survivor knowledge by locking crafting recipes and harvesting actions behind skill levels.",
-			"categories":["Gameplay"],
-			"gameversion":["vanilla"],
-			"released":"2023-01-08",
-			"updated":"2023-01-08",
-
-			"modURL":"https://github.com/Fuar11/SurvivorKnowledge",
-			"downloadURL":"https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.0.0/SurvivorKnowledge.dll",
-			
-			"dependencies": ["ModSettings"],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"version": "1.1.4",
+			"name": "ImprovedSoundtrack",
+			"displayName": "Improved Soundtrack",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-09-30",
+			"downloadURL": "https://github.com/Fuar11/ImprovedSoundtrack/releases/download/v1.1.4/ImprovedSoundtrack.dll",
+			"modURL": "https://github.com/Fuar11/ImprovedSoundtrack",
+			"description": "Improves the in game soundtrack by adding new conditions to play rare or removed music tracks from the OST. Including new location discovered stingers.",
+			"tags": "music, soundtrack, ost",
+			"categories": [
+				"Audio"
+			],
+			"gameversion": [
+				"vanilla",
+				"tftft"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings",
+				"AudioCore"
+			],
+			"status": {
+				"working": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": "Not updated for TFTFT Expansion Update"
 			},
-			"testedon":{
-				"tldversion":"2.06",
-				"mlversion": "0.6.0"
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.5.5.0"
 			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"Improved OST"
+			]
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "SurvivorKnowledge",
+			"displayName": "Survivor Knowledge",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2023-01-08",
+			"updated": "2023-01-08",
+			"downloadURL": "https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.0.0/SurvivorKnowledge.dll",
+			"modURL": "https://github.com/Fuar11/SurvivorKnowledge",
+			"description": "Simulates survivor knowledge by locking crafting recipes and harvesting actions behind skill levels.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
 			"status": {
 				"working": true,
-				"issues": "",
-				"notes": ""
-			}
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				"Knowledge Mod"
+			]
 		}
-        ]
+	]
 }
