@@ -128,6 +128,47 @@
 			"aliases": [
 				"Knowledge Mod"
 			]
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "MoreLockedDoors",
+			"displayName": "More Locked Doors",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2023-03-26",
+			"updated": "2023-03-26",
+			"downloadURL": "https://github.com/Fuar11/MoreLockedDoors/releases/download/1.0.0/SurvivorKnowledge.dll",
+			"modURL": "https://github.com/Fuar11/MoreLockedDoors",
+			"description": "Adds more locks to doors and buildings around the game world.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [
+				"GearSpawner"
+			],
+			"status": {
+				"working": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.08",
+				"mlversion": "0.6.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": [
+				""
+			]
 		}
 	]
 }
