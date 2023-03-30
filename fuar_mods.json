@@ -36,7 +36,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0"
 			},
 			"updater": {
@@ -90,14 +90,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.0.1",
 			"name": "SurvivorKnowledge",
 			"displayName": "Survivor Knowledge",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-01-08",
-			"updated": "2023-01-08",
-			"downloadURL": "https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.0.0/SurvivorKnowledge.dll",
+			"updated": "2023-03-30",
+			"downloadURL": "https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.0.1/SurvivorKnowledge.dll",
 			"modURL": "https://github.com/Fuar11/SurvivorKnowledge",
 			"description": "Simulates survivor knowledge by locking crafting recipes and harvesting actions behind skill levels.",
 			"tags": "",
@@ -118,7 +118,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0"
 			},
 			"updater": {
@@ -159,7 +159,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.08",
+				"tldversion": "2.10",
 				"mlversion": "0.6.0"
 			},
 			"updater": {
