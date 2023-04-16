@@ -150,7 +150,8 @@
 			],
 			"images": [],
 			"dependencies": [
-				"GearSpawner"
+				"ModComponent",
+				"ModData"
 			],
 			"status": {
 				"working": true,
