@@ -36,8 +36,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.12",
-				"mlversion": "0.6.0"
+				"tldversion": "2.17",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -160,7 +160,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.15",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -205,7 +205,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.15",
+				"tldversion": "2.17",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
