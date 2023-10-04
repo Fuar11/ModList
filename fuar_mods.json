@@ -36,7 +36,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.22",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -118,7 +118,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -205,7 +205,7 @@
 				"issues": "There may be an empty space in the navbar in UI panels where the missions tab usually is, if you have it disabled. This will go away as you use the panels."
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
