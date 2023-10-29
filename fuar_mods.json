@@ -131,14 +131,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.2.2",
 			"name": "MoreLockedDoors",
 			"displayName": "More Locked Doors",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-03-26",
-			"updated": "2023-04-25",
-			"downloadURL": "https://github.com/Fuar11/MoreLockedDoors/releases/tag/v1.2.1",
+			"updated": "2023-10-29",
+			"downloadURL": "https://github.com/Fuar11/MoreLockedDoors/releases/tag/v1.2.2",
 			"modURL": "https://github.com/Fuar11/MoreLockedDoors",
 			"description": "Adds more locks to doors and buildings around the game world.",
 			"tags": "",
@@ -160,7 +160,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.17",
+				"tldversion": "2.23",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
