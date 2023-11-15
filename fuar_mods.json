@@ -343,7 +343,7 @@
 			"version": "1.0.0",
 			"name": "DynamicTrees",
 			"displayName": "Dynamic Trees",
-			"author": "Fuar",
+			"author": "Fuar, Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-11-14",
 			"updated": "2023-11-14",
@@ -357,7 +357,7 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": ["https://i.imgur.com/zdZMjCh.jpg"],
 			"dependencies": [
 				"ModData"
 			],
