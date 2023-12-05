@@ -36,7 +36,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -118,7 +118,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -248,7 +248,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
@@ -369,7 +369,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.24",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
