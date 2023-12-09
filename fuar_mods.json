@@ -319,7 +319,7 @@
 			],
 			"images": [],
 			"dependencies": [
-				"ModData"
+				"ModData", "ModSettings"
 			],
 			"status": {
 				"working": true,
