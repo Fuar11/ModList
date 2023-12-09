@@ -259,14 +259,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "ImprovedAfflictions",
 			"displayName": "Improved Afflictions",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-07-22",
-			"updated": "2023-10-14",
-			"downloadURL": "https://github.com/Fuar11/ImprovedAfflictions/releases/download/1.0.1/ImprovedAfflictions.dll",
+			"updated": "2023-12-09",
+			"downloadURL": "https://github.com/Fuar11/ImprovedAfflictions/releases/download/1.1.0/ImprovedAfflictions.dll",
 			"modURL": "https://github.com/Fuar11/ImprovedAfflictions",
 			"description": "Improved Afflictions overhauls and changes many of the afflictions to last longer, provide more deadly affects and make the game more challenging.",
 			"tags": "afflictions, pain",
@@ -289,7 +289,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
