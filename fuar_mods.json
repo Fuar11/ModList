@@ -173,15 +173,15 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.6",
-			"name": "ImprovedSignalVoid",
-			"displayName": "Improved Signal Void",
+			"version": "1.1.0",
+			"name": "ImprovedTales",
+			"displayName": "Improved Tales",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-04-11",
 			"updated": "2023-11-02",
-			"downloadURL": "https://github.com/Fuar11/ImprovedSignalVoid/releases/tag/v1.0.6",
-			"modURL": "https://github.com/Fuar11/ImprovedSignalVoid",
+			"downloadURL": "https://github.com/Fuar11/ImprovedTales/releases/tag/v1.1.0",
+			"modURL": "https://github.com/Fuar11/ImprovedTales",
 			"description": "Improves the Signal Void Tale with QOL customization options.",
 			"tags": "",
 			"categories": [
@@ -202,10 +202,10 @@
 				"working": true,
 				"patchnotes": "",
 				"notes": "",
-				"issues": "There may be an empty space in the navbar in UI panels where the missions tab usually is, if you have it disabled. This will go away as you use the panels."
+				"issues": "
 			},
 			"testedon": {
-				"tldversion": "2.23",
+				"tldversion": "2.25",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
