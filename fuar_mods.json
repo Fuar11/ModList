@@ -360,7 +360,7 @@
 			],
 			"images": ["https://i.imgur.com/zdZMjCh.jpg"],
 			"dependencies": [
-				"ModData"
+				"ComplexLogger"
 			],
 			"status": {
 				"working": true,
