@@ -301,14 +301,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.1",
 			"name": "ReducedLoot",
 			"displayName": "Reduced Loot",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-10-31",
-			"updated": "2023-12-20",
-			"downloadURL": "https://github.com/Fuar11/ReducedLoot/releases/download/1.2.0/ReducedLoot.dll",
+			"updated": "2024-07-13",
+			"downloadURL": "https://github.com/Fuar11/ReducedLoot/releases/download/1.2.1/ReducedLoot.dll",
 			"modURL": "https://github.com/Fuar11/ReducedLoot",
 			"description": "Reduced Loot reduces the amount of certain items in the world by despawning them when they randomly spawn.",
 			"tags": "loot",
@@ -330,7 +330,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.26",
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
