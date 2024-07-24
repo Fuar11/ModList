@@ -475,7 +475,7 @@
 				"vanilla"
 			],
 			"images": [],
-			"dependencies": ["ComplexLogger", "ModSettings", "ModData"],
+			"dependencies": ["ComplexLogger", "ModSettings", "ModData", "AudioManager"],
 			"status": {
 				"working": true,
 				"beta": false,
