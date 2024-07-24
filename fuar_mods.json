@@ -360,7 +360,7 @@
 			],
 			"images": ["https://i.imgur.com/zdZMjCh.jpg"],
 			"dependencies": [
-				"ComplexLogger"
+				"ComplexLogger", "ModData"
 			],
 			"status": {
 				"working": true,
@@ -447,6 +447,44 @@
 			},
 			"testedon": {
 				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "DynamicWorld",
+			"displayName": "Dynamic World",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2024-07-24",
+			"updated": "2024-07-24",
+			"downloadURL": "https://github.com/Fuar11/DynamicWorld/releases/download/1.0.0/DynamicWorld.dll",
+			"modURL": "https://github.com/Fuar11/DynamicWorld",
+			"description": "Adds dynamic events including earthquakes to make the world of Great Bear feel more dynamic and change over time.",
+			"tags": "earthquake",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": ["ComplexLogger", "ModSettings", "ModData"],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.31",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
