@@ -492,6 +492,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "AfflictionComponent",
+			"displayName": "Affliction Component",
+			"author": "Fuar, Deadman",
+			"previousAuthors": "",
+			"released": "2024-08-25",
+			"updated": "2024-08-25",
+			"downloadURL": "https://github.com/TLD-Mods/AfflictionComponent/releases/latest",
+			"modURL": "https://github.com/TLD-Mods/AfflictionComponent",
+			"description": "A framework mod that allows modders to add their own custom afflictions to the game.",
+			"tags": "affliction",
+			"categories": [
+				"Utility Mod"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": ["ComplexLogger", "ModData"],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.32",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
