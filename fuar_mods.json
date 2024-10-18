@@ -6,14 +6,14 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "1.2.1",
+			"version": "1.3.1",
 			"name": "ImprovedLoadingScreens",
 			"displayName": "Improved Loading Screens",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2024-06-29",
-			"downloadURL": "https://github.com/Fuar11/ImprovedLoadingScreens/releases/download/v1.2.1/ImprovedLoadingScreens.dll",
+			"downloadURL": "https://github.com/Fuar11/ImprovedLoadingScreens/releases/download/v1.3.1/ImprovedLoadingScreens.dll",
 			"modURL": "https://github.com/Fuar11/ImprovedLoadingScreens",
 			"description": "A mod that improves the loading screens of the game with custom tips, background images and the ability to enable or disable various aspects of the loading screens.",
 			"tags": "loading screens",
@@ -36,7 +36,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.30",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
