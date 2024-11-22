@@ -419,14 +419,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "ImprovedClothing",
 			"displayName": "Improved Clothing",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2024-04-13",
 			"updated": "2024-04-13",
-			"downloadURL": "https://github.com/Fuar11/ImprovedClothing/releases/download/1.0.0/ImprovedClothing.dll",
+			"downloadURL": "https://github.com/Fuar11/ImprovedClothing/releases/download/1.1.0/ImprovedClothing.dll",
 			"modURL": "https://github.com/Fuar11/ImprovedClothing",
 			"description": "Adds clothing wetness from walking in snow and ice, animal attacks and a new quick way to place clothing items right off your body.",
 			"tags": "clothing",
@@ -446,7 +446,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
+				"tldversion": "2.32",
 				"mlversion": "0.6.1"
 			},
 			"updater": {
