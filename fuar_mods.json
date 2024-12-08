@@ -218,14 +218,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.4.0",
+			"version": "1.5.0",
 			"name": "FrozenFood",
 			"displayName": "Frozen Food",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-05-28",
 			"updated": "2024-11-23",
-			"downloadURL": "https://github.com/Fuar11/FrozenFood/releases/download/v1.4.0/FrozenFood.dll",
+			"downloadURL": "https://github.com/Fuar11/FrozenFood/releases/download/v1.5.0/FrozenFood.dll",
 			"modURL": "https://github.com/Fuar11/FrozenFood",
 			"description": "Frozen Food aims to add a bit more realism to the game by allowing food items to become frozen over time. ",
 			"tags": "frozen, food",
@@ -248,8 +248,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.32",
-				"mlversion": "0.6.1"
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
 			},
 			"updater": {
 				"enable": true,
