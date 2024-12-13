@@ -606,6 +606,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ImprovedCougar",
+			"displayName": "Improved Cougar",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2024-12-12",
+			"updated": "2024-12-12",
+			"downloadURL": "https://github.com/Fuar11/ImprovedCougar/releases/tag/1.0.0",
+			"modURL": "https://github.com/Fuar11/ImprovedCougar",
+			"description": "A gameplay mod that adds and changes mechanics surrounding the Cougar",
+			"tags": "cougar",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": ["ComplexLogger", "ModSettings"],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.35",
+				"mlversion": "0.6.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
