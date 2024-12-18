@@ -259,14 +259,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.0.1",
+			"version": "3.1.0",
 			"name": "ImprovedAfflictions",
 			"displayName": "Improved Afflictions",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-07-22",
-			"updated": "2024-12-03",
-			"downloadURL": "https://github.com/Fuar11/ImprovedAfflictions/releases/download/3.0.1/ImprovedAfflictions.dll",
+			"updated": "2024-12-18",
+			"downloadURL": "https://github.com/Fuar11/ImprovedAfflictions/releases/download/3.1.0/ImprovedAfflictions.dll",
 			"modURL": "https://github.com/Fuar11/ImprovedAfflictions",
 			"description": "Improved Afflictions overhauls and changes many of the afflictions to last longer, provide more deadly affects and make the game more challenging.",
 			"tags": "afflictions, pain",
@@ -290,7 +290,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.36",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -495,13 +495,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"name": "AfflictionComponent",
 			"displayName": "Affliction Component",
 			"author": "Fuar, Deadman",
 			"previousAuthors": "",
 			"released": "2024-08-25",
-			"updated": "2024-12-03",
+			"updated": "2024-12-18",
 			"downloadURL": "https://github.com/TLD-Mods/AfflictionComponent/releases/latest",
 			"modURL": "https://github.com/TLD-Mods/AfflictionComponent",
 			"description": "A framework mod that allows modders to add their own custom afflictions to the game.",
@@ -522,7 +522,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.33",
+				"tldversion": "2.36",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
