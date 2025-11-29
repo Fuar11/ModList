@@ -665,7 +665,7 @@
 				"tftft"
 			],
 			"images": [],
-			"dependencies": ["ComplexLogger", "ModSettings", "ModData", "Expanded AI Framework"],
+			"dependencies": ["ComplexLogger", "ModSettings", "ModData", "Expanded AI Framework", "AudioManager"],
 			"status": {
 				"working": true,
 				"beta": false,
