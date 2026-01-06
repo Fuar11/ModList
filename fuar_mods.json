@@ -193,7 +193,6 @@
 			],
 			"images": [],
 			"dependencies": [
-				"GearSpawner",
 				"ModSettings",
 				"ModComponent"
 			],
@@ -495,13 +494,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.2",
+			"version": "1.0.3",
 			"name": "AfflictionComponent",
 			"displayName": "Affliction Component",
 			"author": "Fuar, Deadman",
 			"previousAuthors": "",
 			"released": "2024-08-25",
-			"updated": "2024-12-18",
+			"updated": "2026-01-06",
 			"downloadURL": "https://github.com/TLD-Mods/AfflictionComponent/releases/latest",
 			"modURL": "https://github.com/TLD-Mods/AfflictionComponent",
 			"description": "A framework mod that allows modders to add their own custom afflictions to the game.",
@@ -522,8 +521,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.36",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
