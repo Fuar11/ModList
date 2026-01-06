@@ -174,14 +174,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.0",
+			"version": "1.2.2",
 			"name": "ImprovedTales",
 			"displayName": "Improved Tales",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-04-11",
 			"updated": "2025-04-29",
-			"downloadURL": "https://github.com/Fuar11/ImprovedTales/releases/tag/v1.2.0",
+			"downloadURL": "https://github.com/Fuar11/ImprovedTales/releases/tag/v1.2.2",
 			"modURL": "https://github.com/Fuar11/ImprovedTales",
 			"description": "Improves the Signal Void Tale with QOL customization options.",
 			"tags": "",
@@ -204,8 +204,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.1"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
