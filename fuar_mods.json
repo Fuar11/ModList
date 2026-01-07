@@ -533,14 +533,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.2",
+			"version": "1.2.3",
 			"name": "ImprovedFlasks",
 			"displayName": "Improved Flasks",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2024-12-04",
 			"updated": "2025-05-17",
-			"downloadURL": "https://github.com/Fuar11/ImprovedFlasks/releases/tag/1.2.2",
+			"downloadURL": "https://github.com/Fuar11/ImprovedFlasks/releases/tag/1.2.3",
 			"modURL": "https://github.com/Fuar11/ImprovedFlasks",
 			"description": "A gameplay mod that adds new QOL functionality to insulated flasks.",
 			"tags": "flask",
@@ -551,7 +551,7 @@
 				"tftft"
 			],
 			"images": [],
-			"dependencies": ["ComplexLogger"],
+			"dependencies": ["ComplexLogger", "ModSettings", "ModComponent"],
 			"status": {
 				"working": true,
 				"beta": false,
@@ -560,8 +560,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.40",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
