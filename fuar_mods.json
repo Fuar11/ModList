@@ -571,14 +571,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.1.0",
+			"version": "1.1.1",
 			"name": "HarvestYieldTweaker",
 			"displayName": "Harvest Yield Tweaker",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2024-12-04",
-			"updated": "2024-12-11",
-			"downloadURL": "https://github.com/Fuar11/HarvestYieldTweaker/releases/tag/1.1.0",
+			"updated": "2026-01-06",
+			"downloadURL": "https://github.com/Fuar11/HarvestYieldTweaker/releases/tag/1.1.1",
 			"modURL": "https://github.com/Fuar11/HarvestYieldTweaker",
 			"description": "A gameplay mod that allows users to change how much yield breaking down certain items gives.",
 			"tags": "harvest",
@@ -598,8 +598,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
