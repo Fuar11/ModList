@@ -512,7 +512,7 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": ["https://imgur.com/R6y5Aim"],
+			"images": ["https://i.imgur.com/R6y5Aim.png"],
 			"dependencies": ["ComplexLogger", "ModData"],
 			"status": {
 				"working": true,
