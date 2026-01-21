@@ -512,7 +512,7 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": [],
+			"images": ["https://raw.githubusercontent.com/Fuar11/ModList/refs/heads/main/AfflictionComponent.png"],
 			"dependencies": ["ComplexLogger", "ModData"],
 			"status": {
 				"working": true,
