@@ -512,7 +512,7 @@
 			"gameversion": [
 				"vanilla"
 			],
-			"images": ["https://raw.githubusercontent.com/TLD-Mods/AfflictionComponent/refs/heads/master/Images/MainHeading.png"],
+			"images": ["https://i.imgur.com/EUZC3G7.png"],
 			"dependencies": ["ComplexLogger", "ModData"],
 			"status": {
 				"working": true,
