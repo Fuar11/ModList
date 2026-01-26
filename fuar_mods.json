@@ -654,7 +654,7 @@
 			"previousAuthors": "",
 			"released": "2024-12-12",
 			"updated": "2025-11-28",
-			"downloadURL": "https://github.com/Fuar11/ImprovedCougar/releases/tag/2.0.1w",
+			"downloadURL": "https://github.com/Fuar11/ImprovedCougar/releases/tag/2.0.1",
 			"modURL": "https://github.com/Fuar11/ImprovedCougar",
 			"description": "A gameplay mod that adds and changes mechanics surrounding the Cougar",
 			"tags": "cougar",
@@ -682,6 +682,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "DynamicTemperature",
+			"displayName": "Dynamic Temperature",
+			"author": "Fuar",
+			"previousAuthors": "yasenfire",
+			"released": "2026-01-26",
+			"updated": "2026-01-26",
+			"downloadURL": "https://github.com/Fuar11/DynamicTemperature/releases/latest/download/DynamicTemperature.zip",
+			"modURL": "https://github.com/Fuar11/DynamicTemperature",
+			"description": "A gameplay mod that adds dynamic temperature and streamlined simulated thermodynamics to interior shelters. Keep your safehouses warm!",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": ["ModSettings", "ModData"],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": ["CoolHome"]
 		}
 	]
 }
