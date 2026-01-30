@@ -609,14 +609,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "MoreCameraSpawns",
 			"displayName": "More Camera Spawns",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2024-12-07",
-			"updated": "2024-12-07",
-			"downloadURL": "https://github.com/Fuar11/MoreCameraSpawns/releases/download/1.0.0/MoreCameraSpawns.zip",
+			"updated": "2026-01-29",
+			"downloadURL": "https://github.com/Fuar11/MoreCameraSpawns/releases/download/1.1.0/MoreCameraSpawns.zip",
 			"modURL": "https://github.com/Fuar11/MoreCameraSpawns",
 			"description": "A gameplay mod that adds new spawns for the instant camera around Lower Great Bear",
 			"tags": "camera",
@@ -636,8 +636,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.35",
-				"mlversion": "0.6.6"
+				"tldversion": "2.51",
+				"mlversion": "0.7.2"
 			},
 			"updater": {
 				"enable": true,
