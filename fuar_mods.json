@@ -720,6 +720,44 @@
 				"downloads": []
 			},
 			"aliases": ["CoolHome"]
+		},
+			{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ImprovedTrader",
+			"displayName": "Improved Trader",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2026-04-23",
+			"updated": "2026-04-23",
+			"downloadURL": "https://github.com/Fuar11/ImprovedTrader/releases/latest/",
+			"modURL": "https://github.com/Fuar11/ImprovedTrader",
+			"description": "A gameplay mod that adds new trader boxes to the world and other tweaks to the trader.",
+			"tags": "trader",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"tftft"
+			],
+			"images": [],
+			"dependencies": ["ModSettings", "ComplexLogger"],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.55",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
