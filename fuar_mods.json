@@ -758,6 +758,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+			{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "PainComponent",
+			"displayName": "Pain Component",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2026-07-22",
+			"updated": "2026-07-22",
+			"downloadURL": "https://github.com/Fuar11/PainComponent/releases/latest/",
+			"modURL": "https://github.com/Fuar11/PainComponent",
+			"description": "A dependency mod that extends the pain and painkiller system from Improved Afflictions to other custom affliction implementations.",
+			"tags": "pain",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": ["ModSettings", "ComplexLogger", "ModData"],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.57",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
