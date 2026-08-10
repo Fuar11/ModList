@@ -495,13 +495,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.4.0",
 			"name": "AfflictionComponent",
 			"displayName": "Affliction Component",
 			"author": "Fuar, Deadman, EtherSystem",
 			"previousAuthors": "",
 			"released": "2024-08-25",
-			"updated": "2026-06-10",
+			"updated": "2026-08-10",
 			"downloadURL": "https://github.com/TLD-Mods/AfflictionComponent/releases/latest",
 			"modURL": "https://github.com/TLD-Mods/AfflictionComponent",
 			"description": "A framework mod that allows modders to add their own custom afflictions to the game.",
@@ -522,7 +522,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.57",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
