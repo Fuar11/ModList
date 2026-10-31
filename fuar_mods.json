@@ -90,14 +90,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.2",
+			"version": "1.3.3",
 			"name": "SurvivorKnowledge",
 			"displayName": "Survivor Knowledge",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-01-08",
-			"updated": "2024-12-10",
-			"downloadURL": "https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.3.2/SurvivorKnowledge.dll",
+			"updated": "2026-10-30",
+			"downloadURL": "https://github.com/Fuar11/SurvivorKnowledge/releases/download/1.3.3/SurvivorKnowledge.dll",
 			"modURL": "https://github.com/Fuar11/SurvivorKnowledge",
 			"description": "Simulates survivor knowledge by locking crafting recipes and harvesting actions behind skill levels.",
 			"tags": "",
@@ -119,7 +119,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -217,14 +217,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.5.1",
+			"version": "1.5.2",
 			"name": "FrozenFood",
 			"displayName": "Frozen Food",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-05-28",
-			"updated": "2025-01-06",
-			"downloadURL": "https://github.com/Fuar11/FrozenFood/releases/download/v1.5.1/FrozenFood.dll",
+			"updated": "2026-10-30",
+			"downloadURL": "https://github.com/Fuar11/FrozenFood/releases/download/v1.5.2/FrozenFood.dll",
 			"modURL": "https://github.com/Fuar11/FrozenFood",
 			"description": "Frozen Food aims to add a bit more realism to the game by allowing food items to become frozen over time. ",
 			"tags": "frozen, food",
@@ -247,7 +247,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -301,14 +301,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2.3",
+			"version": "1.3.1",
 			"name": "ReducedLoot",
 			"displayName": "Reduced Loot",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2023-10-31",
-			"updated": "2026-04-25",
-			"downloadURL": "https://github.com/Fuar11/ReducedLoot/releases/download/1.2.3/ReducedLoot.dll",
+			"updated": "2026-10-30",
+			"downloadURL": "https://github.com/Fuar11/ReducedLoot/releases/download/1.3.1/ReducedLoot.dll",
 			"modURL": "https://github.com/Fuar11/ReducedLoot",
 			"description": "Reduced Loot reduces the amount of certain items in the world by despawning them when they randomly spawn.",
 			"tags": "loot",
@@ -330,7 +330,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -341,14 +341,14 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.3.0",
+			"version": "1.3.1",
 			"name": "DynamicTrees",
 			"displayName": "Dynamic Trees",
 			"author": "Fuar, Jods-Its",
 			"previousAuthors": "",
 			"released": "2023-11-14",
-			"updated": "2026-07-14",
-			"downloadURL": "https://github.com/Fuar11/DynamicTrees/releases/download/1.3.0/DynamicTrees.dll",
+			"updated": "2026-10-30",
+			"downloadURL": "https://github.com/Fuar11/DynamicTrees/releases/download/1.3.1/DynamicTrees.dll",
 			"modURL": "https://github.com/Fuar11/DynamicTrees",
 			"description": "Dynamic Trees replaces the foliage texture of trees dynamically to represent accumulating snowfall to add another level of immersion to the game.",
 			"tags": "trees",
@@ -370,7 +370,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.57",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -446,7 +446,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -484,7 +484,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.57",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -522,7 +522,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -560,7 +560,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -598,7 +598,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -636,7 +636,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -712,7 +712,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.51",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -723,13 +723,13 @@
 		},
 			{
 			"type": "mod",
-			"version": "1.0.0",
+			"version": "1.1.0",
 			"name": "ImprovedTrader",
 			"displayName": "Improved Trader",
 			"author": "Fuar",
 			"previousAuthors": "",
 			"released": "2026-04-23",
-			"updated": "2026-04-23",
+			"updated": "2026-19-30",
 			"downloadURL": "https://github.com/Fuar11/ImprovedTrader/releases/latest/",
 			"modURL": "https://github.com/Fuar11/ImprovedTrader",
 			"description": "A gameplay mod that adds new trader boxes to the world and other tweaks to the trader.",
@@ -750,7 +750,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
@@ -788,7 +788,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.55",
+				"tldversion": "2.59",
 				"mlversion": "0.7.2"
 			},
 			"updater": {
