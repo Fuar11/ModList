@@ -753,6 +753,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "1.0.0",
+			"name": "ConditionalConditionLoss",
+			"displayName": "Conditional Condition Loss",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2026-10-31",
+			"updated": "2026-10-31",
+			"downloadURL": "https://github.com/Fuar11/ConditionalConditionLoss/releases/latest/",
+			"modURL": "https://github.com/Fuar11/ConditionalConditionLoss",
+			"description": "A small gameplay mod that modifies freezing condition loss rate based on temperature and other factors.",
+			"tags": "pain",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": [],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.59",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
