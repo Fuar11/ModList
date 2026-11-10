@@ -791,6 +791,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.9.0",
+			"name": "FireOverhaul",
+			"displayName": "Fire Overhaul",
+			"author": "Fuar",
+			"previousAuthors": "",
+			"released": "2026-11-10",
+			"updated": "2026-10-10",
+			"downloadURL": "https://github.com/Fuar11/FireOverhaul/releases/latest/",
+			"modURL": "https://github.com/Fuar11/FireOverhaul",
+			"description": "A comprehensive overhaul of the game's fire mechanics.",
+			"tags": "fire",
+			"categories": [
+				"Gameplay", "Overhaul"
+			],
+			"gameversion": [
+				"vanilla"
+			],
+			"images": [],
+			"dependencies": ["ComplexLogger", "ModSettings"],
+			"status": {
+				"working": true,
+				"beta": true,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.60",
+				"mlversion": "0.7.2"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
